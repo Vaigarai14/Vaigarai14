@@ -3,7 +3,14 @@
 
  I am a Front-End Developer and passionate about web development. I have experience creating user-friendly and immersive web experiences using core technologies such as HTML, CSS, and JavaScript, along with modern tools such as Tailwind CSS, React.js, and Bootstrap.  
 
-  
+## Skills 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,redux,tailwind,vite,react&perline=10)](https://skillicons.dev)
+
+## Tools 
+
+[![tools](https://skillicons.dev/icons?i=vscode,figma,git&perline=10)](https://skillicons.dev)
+ 
 
 ## Github Stats  
 ![Vaigarai14's Stats](https://github-readme-stats.vercel.app/api?username=Vaigarai14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
@@ -16,11 +23,7 @@
 
 <br/>  
 
-## Skills 
 
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Connect with me  
 <div align="center">
