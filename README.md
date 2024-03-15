@@ -11,11 +11,11 @@
 
 ## Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,redux,tailwind,vite,react&perline=10)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,redux,tailwind,vite,react&perline=10)
 
 ## Tools 
 
-[![tools](https://skillicons.dev/icons?i=vscode,figma,git&perline=10)](https://skillicons.dev)
+![tools](https://skillicons.dev/icons?i=vscode,figma,git&perline=10)
  
 
 ## Github Stats  
@@ -25,7 +25,7 @@
 
 ![Vaigarai14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaigarai14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaigarai14&bg_color=1a1b27&color=26aeae&line=6da0f5&point=8f6fb8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaigarai14&bg_color=1a1b27&color=26aeae&line=6da0f5&point=8f6fb8&area=true&hide_border=true)
 
 <br/>  
 
@@ -41,10 +41,7 @@
 </a>
 <a href="https://instagram.com/https://www.instagram.com/vaigarai14/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Vaigarai14" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
   
 
