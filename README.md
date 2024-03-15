@@ -1,7 +1,13 @@
 
-# <div> I'm Vaikarai  </div>  
+# Hii 👋 I'm Vaikarai 
 
- I am a Front-End Developer and passionate about web development. I have experience creating user-friendly and immersive web experiences using core technologies such as HTML, CSS, and JavaScript, along with modern tools such as Tailwind CSS, React.js, and Bootstrap.  
+ I am a Front-End Developer and passionate about web development. I excel in `HTML, CSS, JavaScript, React, and Redux`. Passionate about exploring `APIs and RESTful services`, I continuously seek to enhance my skills and contribute to innovative web development projects. <br>
+ 
+`Eager to collaborate with like-minded professionals and tackle new challenges in the dynamic world of web development.`
+
+### Favorite Tech 
+
+-👩‍💻 Currently i enjoy working with React js, tailwindcss, redux and Api
 
 ## Skills 
 
