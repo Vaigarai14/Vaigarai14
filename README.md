@@ -5,9 +5,9 @@
  
 `Eager to collaborate with like-minded professionals and tackle new challenges in the dynamic world of web development.`
 
-### Favorite Tech 
+## Favorite Tech 
 
-👩‍💻 Currently i enjoy working with React js, tailwindcss, redux and Api
+ 👩‍💻 Currently i enjoy working with React js, tailwindcss, redux and Api
 
 ## Skills 
 
