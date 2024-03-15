@@ -1,5 +1,5 @@
 
-# Hii 👋 I'm Vaikarai 
+# Hii  I'm Vaikarai 👋
 
  I am a Front-End Developer and passionate about web development. I excel in `HTML, CSS, JavaScript, React, and Redux`. Passionate about exploring `APIs and RESTful services`, I continuously seek to enhance my skills and contribute to innovative web development projects. <br>
  
