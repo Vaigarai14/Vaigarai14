@@ -7,7 +7,7 @@
 
 ## Favorite Tech 
 
- 👩‍💻 Currently i enjoy working with react js, tailwindcss, redux and api
+ 👩‍💻 Currently i enjoy working with React js, Tailwindcss, Redux and Api
 
 ## Skills 
 
