@@ -16,20 +16,6 @@
 ## Tools 
 
 ![tools](https://skillicons.dev/icons?i=vscode,figma,git&perline=10)
- 
-
-## Github Stats  
-![Vaigarai14's Stats](https://github-readme-stats.vercel.app/api?username=Vaigarai14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![Vaigarai14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaigarai14&theme=tokyonight&hide_border=true)
-
-![Vaigarai14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaigarai14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaigarai14&bg_color=1a1b27&color=26aeae&line=6da0f5&point=8f6fb8&area=true&hide_border=true)
-
-<br/>  
-
-
 
 ## Connect with me  
 <div align="center">
