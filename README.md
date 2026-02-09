@@ -7,7 +7,7 @@
 
 ## Skills 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,redux,tailwind,vite,expressjs,mongodb,mongoose,nodejs,react&perline=10)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,redux,tailwind,vite,expressjs,mongodb,typescript,mongoose,nodejs,react&perline=10)
 
 ## Tools 
 
